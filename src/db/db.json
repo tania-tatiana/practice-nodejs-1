@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Fresh Rubber Hat",
+    "price": "139.79",
+    "category": "Baby"
+  },
+  {
+    "name": "Refined Metal Fish",
+    "price": "782.78",
+    "category": "Grocery"
+  },
+  {
+    "name": "Generic Cotton Towels",
+    "price": "501.25",
+    "category": "Jewelry"
+  },
+  {
+    "name": "Unbranded Cotton Keyboard",
+    "price": "863.49",
+    "category": "Shoes"
+  },
+  {
+    "name": "Recycled Plastic Mouse",
+    "price": "1.05",
+    "category": "Music"
+  },
+  {
+    "name": "Gorgeous Metal Soap",
+    "price": "165.99",
+    "category": "Toys"
+  },
+  {
+    "name": "Electronic Bamboo Pants",
+    "price": "179.25",
+    "category": "Sports"
+  },
+  {
+    "name": "Ergonomic Marble Soap",
+    "price": "285.79",
+    "category": "Health"
+  },
+  {
+    "name": "Ergonomic Aluminum Pizza",
+    "price": "534.35",
+    "category": "Clothing"
+  },
+  {
+    "name": "Small Concrete Chips",
+    "price": "854.09",
+    "category": "Garden"
+  }
+]
